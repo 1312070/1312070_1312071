@@ -1,0 +1,80 @@
+body{
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+}
+
+#background{
+	background: url(hinhnen.jpg);
+}
+
+#header{
+	top: 0;
+	right: 0;
+	left: 0;
+	background-color: #30B03C;
+	height: 30%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+h1{
+	margin-left: 100px;
+	color: #FFFFFF;
+}
+
+#content{
+	background-color: #8FFC8F;
+	width: 80%;
+	height: 520px;
+	margin-left: 10%;
+}
+
+#footer{
+	background-color: #30B03C;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	text-align: center;
+	color: #FFFFFF;
+	position: fixed;
+}
+
+#topmenu{
+	background-color: #9CE6A1;
+	padding-left: 100px;
+	width: 100%;
+	position: static;
+}
+
+#topmenu a{
+	display: inline-block;
+	color: #FFFFFF;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+#leftmenu{
+	float: left;
+	height: 520px;
+	width: 20%;
+	background-color: #90DE15;
+}
+
+#leftmenu a{
+	display: inline-block;
+	color: #FFFFFF;
+	margin-left: 10px;
+}
+
+.hinhnhom{
+	display: inline-block;
+	border-color: #FBFBFB;
+}
+
+.hinhnhom img{
+	margin-left: 60%;
+	margin-top: 10px;
+}
