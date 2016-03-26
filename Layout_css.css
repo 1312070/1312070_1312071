@@ -9,9 +9,6 @@ body{
 }
 
 #header{
-	top: 0;
-	right: 0;
-	left: 0;
 	background-color: #30B03C;
 	height: 30%;
 	padding-top: 10px;
@@ -24,10 +21,12 @@ h1{
 }
 
 #content{
+	position: relative;
 	background-color: #8FFC8F;
 	width: 80%;
-	height: 520px;
+	min-height: 520px;
 	margin-left: 10%;
+	overflow: auto;
 }
 
 #footer{
@@ -57,10 +56,13 @@ h1{
 }
 
 #leftmenu{
-	float: left;
-	height: 520px;
+	position: absolute;
+	min-height: 520px;
 	width: 20%;
 	background-color: #90DE15;
+	top: 0;
+	bottom: 0;
+	left: 0;
 }
 
 #leftmenu a{
@@ -70,11 +72,36 @@ h1{
 }
 
 .hinhnhom{
-	display: inline-block;
 	border-color: #FBFBFB;
 }
 
 .hinhnhom img{
-	margin-left: 60%;
+	margin-left: 40%;
 	margin-top: 10px;
+}
+
+.student{
+	margin-left: 25%;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.thecanhan{
+	display: inline-block;
+	padding-right: 40px;
+	width: 350px;
+	height: 150px;
+	font-size: 20px;
+	overflow: auto;
+}
+
+.hinhcanhan img{
+	height: 150px;
+	width: 150px;
+	margin-right: 1em;
+	float: left;
+}
+
+.arrow {
+
 }
