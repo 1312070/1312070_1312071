@@ -1,12 +1,27 @@
 .hinh1312070{
-	border-color: #FBFBFB;
-	margin-left: 40%;
-	margin-top: 100px;
+	margin-left: 23%;
+	margin-top: 20px;
 }
 
 .hinh1312070 img{
-	border-color: #FA8F9C;
-	border: 5px;
+	display: inline-block;
+	padding-right: 10px;
 	width: 400px;
 	height: 300px;
+}
+
+.gioithieu{
+	display: inline-block;
+	width: 350px;
+	height: 300px;
+}
+
+.gioithieu img{
+	float: left;
+	width: 350px;
+	height: 200px;
+}
+
+.baidang{
+	
 }
