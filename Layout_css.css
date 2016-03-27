@@ -53,6 +53,7 @@ h1{
 	color: #FFFFFF;
 	padding-right: 20px;
 	padding-left: 20px;
+	text-decoration: none;
 }
 
 #leftmenu{
@@ -69,6 +70,7 @@ h1{
 	display: inline-block;
 	color: #FFFFFF;
 	margin-left: 10px;
+	text-decoration: none;
 }
 
 .hinhnhom{
@@ -105,3 +107,8 @@ h1{
 .arrow {
 
 }
+
+#topmenu a:active{color: black;}
+#topmenu a:hover{ background: #8E2828;}
+#leftmenu a:active{color: black;}
+#leftmenu a:hover{ background: #8E2828;}
