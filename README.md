@@ -38,7 +38,11 @@ Liệt kê các **yêu cầu nâng cao** đã thực hiện:
 
 Link ảnh GIF demo ứng dụng:
 
+<<<<<<< HEAD
 ![https://github.com/1312070/1312070_1312071/master/BTLayout.gif](demo.gif)
+=======
+![Video Walkthrough](demo.gif)
+>>>>>>> origin/master
 
 Tạo ảnh GIF với chương trình [LiceCap](http://www.cockos.com/licecap/).
 
