@@ -21,12 +21,12 @@ Yêu cầu **thiết kế**:
 
 * [ ] Thiết kế theo table.
 * [X] Thiết kế với div.
-* [ ] Thiết kế nâng cao
+* [X] Thiết kế nâng cao
     * [X] Navigation, header, footer, sidebar.
     * [X] Các hiệu ứng: hover, focus,...
 * [ ] Thiết kế chạy trên nhiều trình duyệt
     * [X] IE
-    * [ ] Firefox
+    * [X] Firefox
     * [X] Chrome
     * [X] Icon, màu sắc,...
 * [ ] Thiết kế responsive
