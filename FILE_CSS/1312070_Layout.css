@@ -1,3 +1,7 @@
+#background1{
+	background: url(../IMAGE/hinhnen.jpg);
+}
+
 .hinh1312070{
 	margin-left: 23%;
 	margin-top: 20px;
@@ -45,14 +49,29 @@
 .comment img{
 	width: 50px;
 	height: 50px;
+	padding-right: 10px;
 }
 
 .comment input{
-	width: 650px;
-	height: 80px;
+	width: 90%;
+	height: 50px;
 }
 
-a:hover{ background: white;}
-a:active{color: #FE0808;}
-#left_menu li a:hover{background: white;}
-#left_menu li a:active{color: #FE0808;}
+.comment legend{
+	width: 50%;
+	height: 10%;
+}
+
+.submit_button{
+	margin-top: 10px;
+	margin-bottom: 40px;
+	margin-left: 70%;
+}
+
+.submit_button button{
+	text-align: center;
+	width: 100px;
+	height: 30px;
+}
+
+.baidang a:hover{color: #F20C0C;}
