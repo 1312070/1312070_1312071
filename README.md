@@ -24,7 +24,7 @@ Yêu cầu **thiết kế**:
 * [X] Thiết kế nâng cao
     * [X] Navigation, header, footer, sidebar.
     * [X] Các hiệu ứng: hover, focus,...
-* [ ] Thiết kế chạy trên nhiều trình duyệt
+* [X] Thiết kế chạy trên nhiều trình duyệt
     * [X] IE
     * [X] Firefox
     * [X] Chrome
