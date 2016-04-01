@@ -1,6 +1,6 @@
 *{margin: 0px; padding: 0px;}
 body{
-	background-image:url("picture7.jpg"); 
+	background-image:url("../IMAGE/picture7.jpg"); 
 }
 #header {
 	     height: 80px;
@@ -39,7 +39,7 @@ body{
 	padding-bottom: 20px;
 	margin: 0 auto;
 	min-height: 1000px;
-	background-image:url("2.jpg"); 
+	background-image:url("../IMAGE/2.jpg"); 
 
 	
 	}
@@ -87,7 +87,11 @@ body{
 			clear: both; 
 			margin-top: 50px; 
 			margin-left: 50px;
+<<<<<<< HEAD:1312071_Layout.css
 			background-image:url("bg.jpg"); 
+=======
+			background-image:url("../IMAGE/bg.jpg"); 
+>>>>>>> 9002fe3ab9a17b7f5ee3b0269115cfeacbd75c75:FILE_CSS/1312071_Layout.css
 			background-attachment:scroll; 
 			background-position:bottom; }
 		#baidang2{ width: 40%; 
@@ -96,7 +100,11 @@ body{
 				margin-top: 50px;
 				margin-left: 50px; 
 				margin-right: 50px;
+<<<<<<< HEAD:1312071_Layout.css
 				background-image:url("bg.jpg");
+=======
+				background-image:url("../IMAGE/bg.jpg");
+>>>>>>> 9002fe3ab9a17b7f5ee3b0269115cfeacbd75c75:FILE_CSS/1312071_Layout.css
 				background-attachment:scroll; 
 				background-position:bottom;}
 		#cm{ width: 920px;  
