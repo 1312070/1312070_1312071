@@ -1,6 +1,6 @@
 *{margin: 0px; padding: 0px;}
 body{
-	background-image:url("picture7.jpg"); 
+	background-image:url("../IMAGE/picture7.jpg"); 
 }
 #header {
 	     height: 80px;
@@ -27,6 +27,7 @@ body{
 #nav ul li {list-style: none; float: left; padding: 5px 10px; width: auto;}
 #nav ul li a{text-decoration: none;}
 .clear{clear: both;}
+.clear p b{padding-left: 3%; text-decoration: underline;} 
 #main{
 	<!--border: 20px double;-->
 	border-color: #E58C56;
@@ -38,7 +39,7 @@ body{
 	padding-bottom: 20px;
 	margin: 0 auto;
 	min-height: 1000px;
-	background-image:url("2.jpg"); 
+	background-image:url("../IMAGE/2.jpg"); 
 
 	
 	}
@@ -63,7 +64,8 @@ body{
 			 text-align: center; 
 			 font-size: 45; 
 			 padding-top: 50px;
-			 display: left;}
+			 display: left;
+			 }
 		#w1{width: 80%;}
 		#image{width: 220px; 
 				height: 180px;
@@ -71,35 +73,35 @@ body{
 				text-align: center; 
 				margin: left;
 				float: left; 
-				padding-left: 50px; }
+				padding-left: 20%; }
 		#nd{font-size: 23;  
-			width: 50%;
+			width: 40%;
 			float: right; 
 			padding-top:  15%; 
 			text-align: left; 
-			padding-left: 40px;}
+			padding-left: 30px;}
 		#nd ul li{list-style: none;}
 		#baidang1{ width: 40%; 
 			height: 40%; 
 			float: left; 
 			clear: both; 
 			margin-top: 50px; 
-			margin-left: 20px;
-			background-image:url("bg.jpg"); 
+			margin-left: 50px;
+			background-image:url("../IMAGE/bg.jpg"); 
 			background-attachment:scroll; 
 			background-position:bottom; }
 		#baidang2{ width: 40%; 
 				height: 40%; 
 				float: right; 
 				margin-top: 50px;
-				margin-left: 20px; 
-				margin-right: 20px;
-				background-image:url("bg.jpg");
+				margin-left: 50px; 
+				margin-right: 50px;
+				background-image:url("../IMAGE/bg.jpg");
 				background-attachment:scroll; 
 				background-position:bottom;}
 		#cm{ width: 920px;  
 			float: botttom; 
-			padding-left: 80px;
+			padding-left: 10%;
 			margin-top: 30px;}
 		p {color: #1529EA; 
 			font-size: 30; 

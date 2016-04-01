@@ -1,0 +1,77 @@
+#background1{
+	background: url(../IMAGE/hinhnen.jpg);
+}
+
+.hinh1312070{
+	margin-left: 23%;
+	margin-top: 20px;
+}
+
+.hinh1312070 img{
+	display: inline-block;
+	padding-right: 10px;
+	width: 400px;
+	height: 300px;
+}
+
+.gioithieu{
+	display: inline-block;
+	width: 350px;
+	height: 300px;
+}
+
+.gioithieu img{
+	float: left;
+	width: 350px;
+	height: 200px;
+}
+
+.baidang{
+	margin-left: 23%;
+	margin-right: 8%;
+}
+
+.baidang i{
+	color: #BF2323;
+	font-size: 30px;
+}
+
+.comment{
+	margin-left: 23%;
+	margin-bottom: 40px;
+	margin-right: 8%;
+}
+
+.comment h2{
+	background-color: #B46438;
+}
+
+.comment img{
+	width: 50px;
+	height: 50px;
+	padding-right: 10px;
+}
+
+.comment input{
+	width: 90%;
+	height: 50px;
+}
+
+.comment legend{
+	width: 50%;
+	height: 10%;
+}
+
+.submit_button{
+	margin-top: 10px;
+	margin-bottom: 40px;
+	margin-left: 70%;
+}
+
+.submit_button button{
+	text-align: center;
+	width: 100px;
+	height: 30px;
+}
+
+.baidang a:hover{color: #F20C0C;}
