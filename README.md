@@ -5,7 +5,7 @@
 Thành viên: **1312070 - Nguyễn Phạm Hoàng Diễm
               1312071 - Nguyễn Thị Diệu**
 
-URL: **URL hosting của bài tập**
+URL: **https://github.com/1312070/1312070_1312071**
 
 ## Yêu cầu
 
@@ -21,12 +21,12 @@ Yêu cầu **thiết kế**:
 
 * [ ] Thiết kế theo table.
 * [X] Thiết kế với div.
-* [ ] Thiết kế nâng cao
+* [X] Thiết kế nâng cao
     * [X] Navigation, header, footer, sidebar.
     * [X] Các hiệu ứng: hover, focus,...
-* [ ] Thiết kế chạy trên nhiều trình duyệt
+* [X] Thiết kế chạy trên nhiều trình duyệt
     * [X] IE
-    * [ ] Firefox
+    * [X] Firefox
     * [X] Chrome
     * [X] Icon, màu sắc,...
 * [ ] Thiết kế responsive
@@ -38,14 +38,14 @@ Liệt kê các **yêu cầu nâng cao** đã thực hiện:
 
 Link ảnh GIF demo ứng dụng:
 
-![Video Walkthrough](demo.gif)
+![https://github.com/1312070/1312070_1312071/master/demo.gif](demo.gif)
 
 Tạo ảnh GIF với chương trình [LiceCap](http://www.cockos.com/licecap/).
 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2016] [Nguyễn Phạm Hoàng Diễm]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
